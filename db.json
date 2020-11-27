@@ -2,6 +2,7 @@
     "data": [
         {
       "id": 1,
+      "sku": 200,
       "nombre": "desparasitante 1",
       "codigo": null,
       "codigo_inventario": null,
@@ -24,6 +25,7 @@
    },
    {
       "id": 1,
+       "sku": 201,
       "nombre": "medicamento 1",
       "codigo": null,
       "codigo_inventario": null,
@@ -46,6 +48,7 @@
    },
    {
       "id": 2,
+       "sku": 202,
       "nombre": "medicantento 2",
       "codigo": null,
       "codigo_inventario": null,
@@ -68,6 +71,7 @@
    },
    {
       "id": 1,
+       "sku": 203,
       "nombre": "producto 1",
       "codigo": null,
       "descripcion": null,
@@ -90,6 +94,7 @@
    },
    {
       "id": 1,
+       "sku": 204,
       "nombre": "vacuna 1",
       "codigo": null,
       "codigo_inventario": null,
