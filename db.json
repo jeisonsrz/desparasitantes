@@ -1,5 +1,6 @@
-[
-   {
+{
+    "data": [
+        {
       "id": 1,
       "nombre": "desparasitante 1",
       "codigo": null,
@@ -109,4 +110,5 @@
       "bodega": 1,
       "tipo_elemento": "Vacuna"
    }
-]
+   ]
+}
