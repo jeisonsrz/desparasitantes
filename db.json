@@ -1,7 +1,7 @@
 {
     "data": [
         {
-      "id": 1,
+      "id": 12,
       "sku": 200,
       "nombre": "desparasitante 1",
       "codigo": null,
@@ -24,7 +24,7 @@
       "tipo_elemento": "Desparasitante"
    },
    {
-      "id": 1,
+      "id": 13,
        "sku": 201,
       "nombre": "medicamento 1",
       "codigo": null,
@@ -47,7 +47,7 @@
       "tipo_elemento": "Medicamento"
    },
    {
-      "id": 2,
+      "id": 14,
        "sku": 202,
       "nombre": "medicantento 2",
       "codigo": null,
@@ -70,7 +70,7 @@
       "tipo_elemento": "Medicamento"
    },
    {
-      "id": 1,
+      "id": 15,
        "sku": 203,
       "nombre": "producto 1",
       "codigo": null,
@@ -93,7 +93,7 @@
       "tipo_elemento": "Producto"
    },
    {
-      "id": 1,
+      "id": 16,
        "sku": 204,
       "nombre": "vacuna 1",
       "codigo": null,
